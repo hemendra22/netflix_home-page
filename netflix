@@ -95,7 +95,7 @@
    <div class="contanier">
     <div class="navbar">
         <div class="logo">
-            <img scr="C:\Users\LENOVO\Desktop\netfliximg\logo.png" alt="logo">
+            <img scr="Desktop\netfliximg\logo.png" alt="logo">
         </div>
         <div calss="singnin">Sign In</div>
         <div class="subcontainer">
